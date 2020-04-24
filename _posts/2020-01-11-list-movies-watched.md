@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A List of Movies I Have Watched for English Learning"
-date:   2020-01-11 19:57:12 +0800
+date:   2020-04-19 19:57:12 +0800
 categories: List
 permalink: /list-movies-watched/
 ---
