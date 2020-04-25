@@ -8,7 +8,7 @@ permalink: /list-movies-watched/
 
 I focused on academic and college application after the fall of 2019 so I stoped watching movies/TV shows on daily/weekly basis and going to step ahead pursuing a career. There was a sudden decline of my movie watching activity during this period. I think my English listening improved to a totally different level within 2 years and it’s time to make a movie list I have watched on my blog.
 
-	Thanks to UTR, QxR Group. Tigole, Silence, RZeroX and more. You guys changed my life.
+	Thanks to UTR, QxR Group. Tigole, Silence, RZeroX and more.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-permalink: /Donate/
+permalink: /donate/
 ---
 
 [Paypal](https://paypal.me/furengete)
