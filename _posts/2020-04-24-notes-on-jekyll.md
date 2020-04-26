@@ -5,7 +5,6 @@ date:   2020-04-24 09:57:12 +0800
 categories: Notes
 permalink: /notes-jekyll/
 ---
-# Jekyll Notes
 
 Tutorial: [Jekyll - Static Site Generator]
 

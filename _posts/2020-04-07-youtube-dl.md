@@ -6,8 +6,6 @@ categories: Notes
 permalink: /youtube-dl/
 ---
 
-# youtube-dl
-
 [youtube-dl] is a Command-line program to download videos from YouTube.com and other video sites.
 
 [Here]‘s is the list of all the supported sites, ordered alphabetically.

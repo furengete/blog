@@ -31,10 +31,12 @@ twitter_username: furengete
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  
+show_excerpts: true
 
 # Google services
 google_analytics: UA-164533734-1

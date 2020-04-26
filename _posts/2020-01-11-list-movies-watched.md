@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "A List of Movies I Have Watched for English Learning"
+title:  "Movies List"
 date:   2020-04-19 19:57:12 +0800
 categories: List
 permalink: /list-movies-watched/
 ---
-
-I focused on academic and college application after the fall of 2019 so I stoped watching movies/TV shows on daily/weekly basis and going to step ahead pursuing a career. There was a sudden decline of my movie watching activity during this period. I think my English listening improved to a totally different level within 2 years and it’s time to make a movie list I have watched on my blog.
 
 	Thanks to UTR, QxR Group. Tigole, Silence, RZeroX and more.
 
@@ -256,19 +254,25 @@ Rain Man (1988)
 
 Better Call Saul (2015) Season 3
 2018-10-09
+
 Better Call Saul (2015) Season 2
 2018-10-07
+
 Better Call Saul (2015) Season 1
 2018-10-06
 
-Breaking Bad (2008) Season 5
+Breaking Bad (2008) Season 5 
 2018-10-05
+
 Breaking Bad (2008) Season 4
 2018-10-03
+
 Breaking Bad (2008) Season 3
 2018-10-02
+
 Breaking Bad (2008) Season 2
 2018-10-02
+
 Breaking Bad (2008) Season 1
 2018-10-02
 
@@ -338,8 +342,10 @@ The Hobbit: An Unexpected Journey (2012)
 
 Ocean’s Thirteen (2007)
 2018-07-19
+
 Ocean’s Twelve (2004)
 2018-07-18
+
 Ocean’s Eleven (2001)
 2018-07-17
 
