@@ -30,9 +30,9 @@ git init
 git checkout -b gh-pages
 git status
 git add .
-git commit -m "intiial commit"
+git commit -m "initial commit"
 git remote add origin http://github.com/githubusername/newrepositoryname.git
-git push origin gp-pages
+git push origin gh-pages
 {% endhighlight %}
 
 
