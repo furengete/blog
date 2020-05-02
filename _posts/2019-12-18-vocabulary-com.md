@@ -5,7 +5,7 @@ date: "2019-12-18"
 
 the definitions for words on vocabulary.com is really helpful for English vocab learners.
 
-* * *
+---
 
 ## Conversational Adjective
 
@@ -17,7 +17,7 @@ panic - freaking out - opposite of relaxing
 bugs - bugs bug you - an insect - annoy  
 decent - nice
 
-* * *
+---
 
 ## Basic noun and verb
 
@@ -95,7 +95,7 @@ Passive is the opposite of active. In English class, you might be advised to avo
 When you're passive, you don't participate much and you're not very emotional. In chemistry, passive means to be "unreactive except under special or extreme conditions; inert." Gandhi used the term passive resistance in the mid-twentieth century to describe the nonviolent approach Indians should use in their quest to become an independent nation.  
 /
 
-* * *
+---
 
 ## Common Second Meanings
 
@@ -166,7 +166,7 @@ coin
 seasoned  
 exploit
 
-* * *
+---
 
 ## Catlin Tucker SAT Vocabulary List
 
@@ -265,7 +265,7 @@ Boisterous is a word used to describe someone spirited, loud, and slightly out o
 Boisterous means "loud, clamorous, and unrestrained." Think of children on a playground or a lively party or a litter of puppies as boisterous. This word, which comes from Middle English, can also refer to very intense storms. You could call a hurricane boisterous, but you will most likely hear this word used to describe people.  
 /
 
-* * *
+---
 
 /  
 Propaganda is the spreading of information in support of a cause. It’s not so important whether the information is true or false or if the cause is just or not — it’s all propaganda.

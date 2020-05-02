@@ -3,9 +3,10 @@ title: "My Favourite Movies"
 date: "2020-01-11"
 ---
 
-I focused on academic and college application after the fall of 2019 so I stoped watching movies/TV shows on daily/weekly basis and going to step ahead pursuing a career. There was a sudden decline of my movie watching activity during this period. I think my English listening improved to a totally different level within 2 years and it's time to make a movie list I have watched on my blog.
+I focused on college application in the fall of 2019 so I stoped watching movies/TV shows on daily/weekly basis. 
+There was a sudden decline of my movie watching activity during this period. I think my English listening improved to next level within 2 years and it's time to make a movie list.
 
-Thanks to UTR, QxR Group. Tigole, Silence, RZeroX and more. You guys changed my life.
+Thanks to UTR, QxR. Tigole, Silence, RZeroX, Qman and more. You guys are awesome.
 
 * * *
 
@@ -253,19 +254,25 @@ Rain Man (1988)
 
 Better Call Saul (2015) Season 3  
 2018-10-09  
+
 Better Call Saul (2015) Season 2  
 2018-10-07  
+
 Better Call Saul (2015) Season 1  
 2018-10-06
 
 Breaking Bad (2008) Season 5  
 2018-10-05  
+
 Breaking Bad (2008) Season 4  
 2018-10-03  
+
 Breaking Bad (2008) Season 3  
 2018-10-02  
+
 Breaking Bad (2008) Season 2  
 2018-10-02  
+
 Breaking Bad (2008) Season 1  
 2018-10-02
 
@@ -335,8 +342,10 @@ The Hobbit: An Unexpected Journey (2012)
 
 Ocean's Thirteen (2007)  
 2018-07-19  
+
 Ocean's Twelve (2004)  
 2018-07-18  
+
 Ocean's Eleven (2001)  
 2018-07-17  
   

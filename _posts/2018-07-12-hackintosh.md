@@ -1,7 +1,8 @@
 ---
-title: "Hackintosh: Installing macOS High Sierra 10.13.5 on PC"
+title: "Hackintosh"
 date: "2018-07-12"
 ---
+Installing macOS High Sierra 10.13.5 on PC
 
 Computer Specifications:
 
