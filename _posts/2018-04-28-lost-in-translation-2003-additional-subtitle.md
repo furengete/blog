@@ -4,7 +4,7 @@ date: "2018-04-28"
 ---
 
 
-There was a non-subtitle dialoge between a japanese director and Bod, the following content is what he actually said in the movie.
+There was a non-subtitled dialoge between a japanese director and Bob, the following content is what he actually said in the movie.
 
 ---
 

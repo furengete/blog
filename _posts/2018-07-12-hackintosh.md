@@ -28,21 +28,21 @@ Note:
 Timeline: 7/5/18 - 7/10/18
 
 - 7/5/18 macOS Virtual Machine Installed successfully with VMware 14.1, macOS High Sierra 10.13.5 downloaded in the virtual machine on Windows 10
-- 7/6/18 Try to Install bootable USB drive on VM with Unibeast 8.3.2 failed ( There are an error creating your Unibeast drive: Copy of apfs.efi failed )
-- 7/7/18 Samsung 860 EVO SSD Purchased $65 + $3 ( transport ) and still trying to install bootable USB drive with Unibeast succeed when I after reading [Unibeast Troubleshooting](https://www.tonymacx86.com/threads/unibeast-8-troubleshooting-notes.235489/). Plus to make sure destination volume type ‘df -lh’ in Terminal 
-- 7/8/18 SSD installed and failed to boot USB drive on PC
-- 7/9/18 NVIDIA 1050 Ti GPU uninstalled then PC automatically switch the GPU to Intel HD630 build-in CPU
-- 7/10/18 Created the bootable USB drive with Clover 4458 to Boot successfully and installed macOS high Sierra on SSD
+- 7/6/18 Tried to Install bootable USB drive on VM with Unibeast 8.3.2 and failed showing "There are an error creating your Unibeast drive: Copy of apfs.efi failed"
+- 7/7/18 Purchased Samsung 860 EVO SSD $65 + $3 ( shipping ) and still trying to install bootable USB drive with Unibeast succeed after I reading this [Unibeast Troubleshooting](https://www.tonymacx86.com/threads/unibeast-8-troubleshooting-notes.235489/) and to make sure destination volume type ‘df -lh’ in Terminal 
+- 7/8/18 SSD installed but failed to boot USB drive on PC
+- 7/9/18 NVIDIA 1050 Ti GPU uninstalled then PC automatically switch the GPU which is Intel HD630 (build-in CPU)
+- 7/10/18 Created the bootable USB drive with Clover 4458 and Boot successfully. Installed macOS high Sierra on SSD
 
-\* I failed about 5 times when booting by the bootable USB drive which Unibeast created. There are 2 mistakes I have made:
+\* I failed about 5 times when booting with the bootable USB drive which Unibeast created. There were 2 mistakes I have made:
 
-1\. Erase the USB Volume and I do not know how to chose the scheme option to GUID Partition Map. My VM macOS System default the view to Show only Volumes. So I just erased the volume instead of the whole disk. [No partition scheme option when erasing a USB disk in MacOS High Sierra?](https://apple.stackexchange.com/questions/304131/no-partition-scheme-option-when-erasing-a-usb-disk-in-macos-high-sierra) 
+1\. Erase the USB Volume and I do not know how to chose the scheme option to GUID Partition Map. My VM macOS System defaulted the view to Show only Volumes. So I just erased the volume instead of the whole disk. [No partition scheme option when erasing a USB disk in MacOS High Sierra?](https://apple.stackexchange.com/questions/304131/no-partition-scheme-option-when-erasing-a-usb-disk-in-macos-high-sierra) 
 
-2\. The Unibeast is not updated for 10.13.5 version installation, I noticed that it build at 2018-04-06 contains Clover version 2.4k rev 4428 but 10.13.5 released at 2018.6.1.
+2\. The Unibeast is not updated for 10.13.5 version installation, I noticed that it build on 2018-04-06 contains Clover version 2.4k rev 4428 but 10.13.5 released at 2018.6.1.
 
 He got the same issue [Installing High Sierra 10.13.5 - Stuck at Apple Logo Black Screen - First Hackintosh](https://www.tonymacx86.com/threads/installing-high-sierra-10-13-5-stuck-at-apple-logo-black-screen-first-hackintosh.253457/). 
 
-Finally, I decided to try Clover to install by myself instead, also I see someone failed [issue with clover 4586 - MacOS 10.13.5](https://www.tonymacx86.com/threads/report-issue-with-clover-4586-macos-10-13-5.255268/) by using Clover latest update and he says Clover 4458 works fine for him.) 
+Finally, I decided to try Clover to install by myself instead, also I see someone failed [issue with clover 4586 - MacOS 10.13.5](https://www.tonymacx86.com/threads/report-issue-with-clover-4586-macos-10-13-5.255268/) by using Clover latest version and he says Clover 4458 works fine for him.) 
 
 Main steps:
 
