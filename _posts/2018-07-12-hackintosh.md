@@ -7,7 +7,7 @@ Installing macOS High Sierra 10.13.5 on PC
 Computer Specifications:
 
 - Motherboard: Xeon E3 - 1200 v6/7th Gen Intel Core - 591F - 100 Series/C230 Series
-- CPU: i5-7400 with Intel HD 630 Build-in Graphic card
+- CPU: i5-7400 with Intel HD 630 Integrated Graphics
 - GPU: Nvidia GeForce 1050 Ti
 - SSD: Samsung SSD 860 EVO SATA
 - RAM: 2 x 8GB DDR4
@@ -31,7 +31,7 @@ Timeline: 7/5/18 - 7/10/18
 - 7/6/18 Tried to Install bootable USB drive on VM with Unibeast 8.3.2 and failed showing "There are an error creating your Unibeast drive: Copy of apfs.efi failed"
 - 7/7/18 Purchased Samsung 860 EVO SSD $65 + $3 ( shipping ) and still trying to install bootable USB drive with Unibeast succeed after I reading this [Unibeast Troubleshooting](https://www.tonymacx86.com/threads/unibeast-8-troubleshooting-notes.235489/) and to make sure destination volume type ‘df -lh’ in Terminal 
 - 7/8/18 SSD installed but failed to boot USB drive on PC
-- 7/9/18 NVIDIA 1050 Ti GPU uninstalled then PC automatically switch the GPU which is Intel HD630 (build-in CPU)
+- 7/9/18 NVIDIA 1050 Ti GPU uninstalled then PC automatically switch the GPU which is Intel HD630 (CPU Integrated Graphics)
 - 7/10/18 Created the bootable USB drive with Clover 4458 and Boot successfully. Installed macOS high Sierra on SSD
 
 \* I failed about 5 times when booting with the bootable USB drive which Unibeast created. There were 2 mistakes I have made:
